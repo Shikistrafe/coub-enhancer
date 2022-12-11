@@ -1,6 +1,11 @@
+@font-face {
+	font-family: "Helvetica";
+	src: url("./fonts/helvetica_regular.otf") format("otf");
+}
 body {
 	width: 400px;
 	height: 400px;
 	background-color: #2f2f2f;
 	color: #fff;
+	font-family: "Helvetica";
 }
