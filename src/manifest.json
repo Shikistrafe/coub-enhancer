@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "Coub Enhancer",
 	"description": "The extension adds additional settings to coub.com",
-	"author": "isteKuro",
+	"author": "Shikistrafe",
 	"version": "0.0.1",
 	"action": {
 		"default_popup": "/popup/popup.html"
