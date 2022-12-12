@@ -3,7 +3,7 @@
 	"name": "Coub Enhancer",
 	"description": "The extension adds additional settings to coub.com",
 	"author": "Shikistrafe",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"action": {
 		"default_popup": "/popup/popup.html"
 	},
