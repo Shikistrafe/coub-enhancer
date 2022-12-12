@@ -3,9 +3,43 @@
 	src: url("./fonts/helvetica_regular.otf") format("otf");
 }
 body {
-	width: 400px;
+	width: 300px;
 	height: 400px;
-	background-color: #2f2f2f;
+	background-color: #1b1b1b;
 	color: #fff;
 	font-family: "Helvetica";
+	font-weight: 600;
+	border: 1px solid white;
+}
+li {
+	list-style-type: none;
+	/* Убираем маркеры */
+}
+ul {
+	padding-left: 10px;
+}
+.coub-enhancer {
+	margin: 0;
+	padding: 4px;
+	text-align: center;
+	background-color: #0332ff;
+}
+.link-to-coub {
+	text-decoration: none;
+	color: #fff;
+}
+select {
+	font-family: Helvetica;
+	font-weight: 600;
+	font-size: 0.99em;
+	color: #fff;
+	background-color: #2f2f2f;
+	border-radius: 4px;
+	margin: 4px;
+}
+select option {
+	font-family: Helvetica;
+	font-weight: 600;
+	font-size: 0.99em;
+	text-align: center;
 }

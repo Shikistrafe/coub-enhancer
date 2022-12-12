@@ -17,6 +17,5 @@
 		"service_worker": "background.js"
 	},
 	"homepage_url": "https://github.com/Shikistrafe/coub-enhancer",
-	"permissions": ["tabs"],
-	"version_name": "Alpha"
+	"permissions": ["tabs"]
 }

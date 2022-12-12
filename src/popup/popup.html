@@ -4,10 +4,47 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="cssreset.css" class="css">
 	<link rel="stylesheet" href="style.css">
 	<title>Coub Enhancer popup</title>
 </head>
 <body>
-	<h1>test</h1>
+	<script src="../main.js"></script>
+	<h1 class="coub-enhancer"><a href="https://coub.com/" class="link-to-coub">Coub Enhancer</a></h1>
+	<div class="content">
+		<div class="vizual-style">
+			<ul>
+				<li>Coub style:
+					<select id="coubStyle">
+						<option value="current-coub-style">Current</option>
+						<option value="compact-current-coub-style">Current compact</option>
+						<option value="old-coub-style">Old</option>
+					</select>
+				</li>
+				<li>Coub layout:
+					<select id="coubLayout">
+						<option value="current-coub-layout">Current</option>
+						<option value="youtube-coub-layout">YouTube</option>
+						<option value="one-coub-layout">One coub</option>
+					</select>
+				</li>
+				<li>Coub theme:
+					<select id="coubTheme">
+						<option value="light-theme">Light</option>
+						<option value="dark-theme">Dark</option>
+						<option value="dark-red-theme">Dark Red</option>
+						<option value="dark-orange-theme">Dark Orange</option>
+						<option value="dark-yellow-theme">Dark Yellow</option>
+						<option value="dark-green-theme">Dark Green</option>
+						<option value="dark-blue-theme">Dark Blue</option>
+						<option value="dark-purple-theme">Dark Purple</option>
+					</select>
+				</li>
+				<li>Hide dislike buttons:
+					<input type="checkbox" name="dislike" id="dislike">
+				</li>
+			</ul>
+		</div>
+	</div>
 </body>
 </html>
