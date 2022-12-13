@@ -1,1 +1,1 @@
-console.log("extension loaded")
+console.log("extension loaded");
