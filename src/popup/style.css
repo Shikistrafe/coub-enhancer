@@ -54,6 +54,14 @@ select option {
 	vertical-align: middle;
 	margin: 4px;
 }
+#old-icons {
+	vertical-align: middle;
+	margin: 4px;
+}
+#right-menu {
+	vertical-align: middle;
+	margin: 4px;
+}
 input[type="checkbox"] {
 	position: relative;
 	width: 40px;
