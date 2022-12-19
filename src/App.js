@@ -7,7 +7,7 @@ function App() {
 			<div className="header">
 				<p>Coub Enhaner</p>
 			</div>
-    	</div>
+		</div>
 	);
 }
 
