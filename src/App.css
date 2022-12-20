@@ -3,9 +3,7 @@
 	min-height: 300px;
 	width: 360px;
 	height: 500px;
-	text-align: center;
 	border: 1px solid black;
-}
-.header {
-	display: block;
+	margin: 0;
+	padding: 0;
 }

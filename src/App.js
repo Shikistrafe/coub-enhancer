@@ -5,7 +5,7 @@ function App() {
 	return (
 		<div className="content">
 			<div className="header">
-				<p>Coub Enhaner</p>
+				
 			</div>
 		</div>
 	);
