@@ -1,11 +1,11 @@
 .content {
 	min-width: 200px;
 	min-height: 300px;
-	width: 20%;
-	height: 30%;
+	width: 360px;
+	height: 500px;
 	text-align: center;
 	border: 1px solid black;
 }
 .header {
-	border: 1px solid black;
+	display: block;
 }
