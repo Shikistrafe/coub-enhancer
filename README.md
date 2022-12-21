@@ -9,7 +9,7 @@
 
 ## Requirements
 
-<img alt="OS any" src="https://img.shields.io/badge/operating%20system-any-green">  <img alt="NodeJS >= 18.12.1" src="https://img.shields.io/badge/NodeJS-%3E%3D%2018.12.1-%23026e00?style=flat&logo=Node.js&logoColor=white">  <img alt="React >= 18.2.0" src="https://img.shields.io/badge/React-%3E%3D%2018.2.0-%2300d8ff?style=flat&logo=React&logoColor=white">
+<img alt="OS any" src="https://img.shields.io/badge/operating%20system-any-green">  <img alt="NodeJS ^18.12.1" src="https://img.shields.io/badge/NodeJS-%3E%3D%2018.12.1-%23026e00?style=flat&logo=Node.js&logoColor=white">  <img alt="React ^18.2.0" src="https://img.shields.io/badge/React-%3E%3D%2018.2.0-%2300d8ff?style=flat&logo=React&logoColor=white">
 
 ## Installation
 
