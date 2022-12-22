@@ -1,5 +1,5 @@
 {
-	"name": "Coub Enhancer",
+	"name": "Coub-Enhancer",
 	"version": "0.0.8",
 	"description": "The extension adds additional settings to coub.com",
 	"license": "MIT",
@@ -7,6 +7,7 @@
 		"name": "Shikistrafe",
 		"url": "https://github.com/Shikistrafe"
 	},
+	"homepage": "https://github.com/Shikistrafe/coub-enhancer",
 	"bugs": "https://github.com/Shikistrafe/coub-enhancer/issues",
 	"private": true,
 	"dependencies": {
@@ -22,6 +23,7 @@
 		"coub",
 		"coub.com",
 		"enhancer",
+		"Coub Enhancer",
 		"react",
 		"extension",
 		"javascript"
