@@ -4,9 +4,7 @@ console.log("app.js loaded")
 function App() {
 	return (
 		<div className="content">
-			<div className="header">
-				coub enhancer
-			</div>
+			<h1 class="header"><a href="https://coub.com/" class="link-to-coub">Coub Enhancer</a></h1>
 		</div>
 	);
 }
