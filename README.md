@@ -13,6 +13,8 @@
 
 ## Installation
 
+First, install **Node.js** and **npm**, then run the commands below in the terminal
+
 ```
 git clone git@github.com:Shikistrafe/coub-enhancer.git
 cd coub-enhancer
