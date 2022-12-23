@@ -41,3 +41,26 @@
 .link-to-coub {
 	color: white;
 }
+
+.visual {
+	font-family: helveticaneuecoub-normal, Arial, sans-serif;
+	font-size: 1.4em;
+}
+select {
+	border: 1px solid black;
+	border-radius: 4px;
+	vertical-align: text-bottom;
+	text-align: center;
+	min-width: 200px;
+	margin: 1px;
+	font-family: helveticaneuecoub-normal, Arial;
+	font-size: 0.8em;
+}
+li {
+	margin: 10px;
+	vertical-align: middle;
+	text-align: center;
+}
+option {
+	font-family: helveticaneuecoub-normal, Arial;
+}
