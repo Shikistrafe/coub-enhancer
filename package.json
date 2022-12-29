@@ -1,5 +1,5 @@
 {
-	"name": "Coub-Enhancer",
+	"name": "coub-enhancer",
 	"version": "0.0.9",
 	"description": "The extension adds additional settings to coub.com",
 	"license": "MIT",
@@ -25,6 +25,7 @@
 		"Coub Enhancer",
 		"react",
 		"extension",
+		"web",
 		"javascript"
 	],
 	"scripts": {

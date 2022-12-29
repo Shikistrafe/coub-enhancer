@@ -5,19 +5,19 @@ console.log(navigator.userAgent);
 function App() {
 	return (
 		<div className="content">
-			<h1 className="header"><a href="https://coub.com/" className="link-to-coub">Coub Enhancer</a></h1>
+			<h1 className="header">Coub Enhancer</h1>
 			<div className="visual">
 				<ul>
-					<li>Coub Layout: <select name="" id="">
-							<option value="">Default</option>
-							<option value="">YouTube</option>
-							<option value="">Twitch</option>
+					<li>Coub Layout: <select id="layoutChoice">
+							<option value="defLayout">Default</option>
+							<option value="ytLayout">YouTube</option>
+							<option value="twLayout">Twitch</option>
 						</select>
 					</li>
-					<li>Coub style: <select name="" id="">
-							<option value="">Default</option>
-							<option value="">Compact</option>
-							<option value="">"Zen"</option>
+					<li>Coub style: <select id="styleChoice">
+							<option value="defStyle">Default</option>
+							<option value="compStyle">Compact</option>
+							<option value="zenStyle">"Zen"</option>
 						</select>
 					</li>
 				</ul>

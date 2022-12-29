@@ -22,12 +22,35 @@
 	font-weight: 100;
 	font-style: normal
 }
+@media (prefers-color-scheme: light) {
+	.content {
+		background: #FFF;
+		color: black;
+	}
+	select {
+		background: #fff;
+		color: black;
+	}
+	.header {
+		color: #fff
+	}
+}
+@media (prefers-color-scheme: dark) {
+	.content {
+		background: #333;
+		color: #fff;
+	}
+	select {
+		background: #555;
+		color: #fff
+	}
+}
 .content {
 	min-width: 200px;
 	min-height: 300px;
 	width: 360px;
 	height: 500px;
-	border: 1px solid black;
+	border: 1px solid rgb(0, 132, 255);
 	margin: 0;
 	padding: 0;
 }
@@ -38,12 +61,8 @@
 	padding:4%;
 	font-family:'helveticaneuecoub-bold', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.link-to-coub {
-	color: white;
-}
-
 .visual {
-	font-family: helveticaneuecoub-normal, Arial, sans-serif;
+	font-family: 'helveticaneuecoub-normal', Arial, sans-serif;
 	font-size: 1.4em;
 }
 select {
@@ -53,8 +72,8 @@ select {
 	text-align: center;
 	min-width: 200px;
 	margin: 1px;
-	font-family: helveticaneuecoub-normal, Arial;
-	font-size: 0.8em;
+	font-family: 'helveticaneuecoub-normal', Arial;
+	font-size: 0.9em;
 }
 li {
 	margin: 10px;
@@ -62,5 +81,5 @@ li {
 	text-align: center;
 }
 option {
-	font-family: helveticaneuecoub-normal, Arial;
+	font-family: 'helveticaneuecoub-norm', Arial;
 }
